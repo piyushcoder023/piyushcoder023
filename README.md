@@ -1,43 +1,45 @@
-<h1 align="center">Hey there, I'm Piyush 👋</h1>
+<h1 align="center">👋 Hey, I'm Piyush</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Data+Enthusiast;Business+Analyst+Learner;Learning+Daily+Improving+Daily;Welcome+to+my+GitHub!">
-</div>
-
----
-
-## 🚀 About Me
-- 🔍 Business Analyst Intern (in-progress learning)
-- 📊 Love solving problems with data  
-- 🧩 Learning: SQL • Python • Statistics • Machine Learning  
-- 🎯 Goal: Becoming a skilled Data/Business Analyst  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Business+Analyst;Data+Enthusiast;Learning+Deep+Learning+%26+AI;Turning+Data+Into+Decisions;Always+Curious+Always+Learning" />
+</p>
 
 ---
 
-## 📈 Tech Stack & Tools
-
-### 🛠 Languages & Skills  
-<div>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</div>
-
----
-
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushcoder023&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushcoder023&theme=tokyonight" />
-</div>
+## 🚀 About Me  
+- 📊 Aspiring **Business Analyst** with a growing command over **data, analytics & business logic**  
+- 🤖 Diving into **Deep Learning**, **Machine Learning**, and **Statistics**  
+- 🎯 Focused on building skills that convert raw data into **clear insights & decisions**  
+- 🧠 Always learning. Always leveling up.  
 
 ---
 
-## ✨ Fun Fact  
-💬 *“Data never sleeps… and neither does your hunger to grow.”*
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,git,github,vscode,powershell,html,css&perline=8" />
+</p>
 
 ---
 
-## 🤝 Connect With Me  
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+## 📈 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushcoder023&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushcoder023&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=piyushcoder023&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## ✨ Fun Little Touch  
+```python
+# The grind never stops.
+while True:
+    learn()
+    improve()
+    stay_consistent()
