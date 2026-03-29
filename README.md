@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Piyush</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Business+Analyst;Turning+Data+Into+Decisions;SQL+%7C+Python+%7C+Excel;Building+Real+World+Projects;Always+Learning+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Science+Enthusiast;Turning+Data+Into+Decisions;SQL+%7C+Python+%7C+Excel;Exploring+ML+%26+Deep+Learning;Always+Learning+Always+Improving" />
 </p>
 
 <p align="center">
@@ -23,39 +23,59 @@
 
 ## 🚀 About Me
 
-* 📊 Aspiring **Business Analyst** focused on solving real-world problems
-* 🧠 Skilled in **SQL, Python, Excel, and Data Visualization**
-* 📈 Building projects based on **data insights & decision-making**
-* ⚡ Fast learner, consistent builder
+* 📊 Aspiring **Business Analyst** with strong interest in **Data Science & Analytics**
+* 🧠 Skilled in **Python, SQL, Excel, and Data Visualization**
+* 🤖 Exploring **Machine Learning and Deep Learning concepts**
+* 📈 Focused on solving real-world problems using **data-driven insights**
+* ⚡ Consistent learner, building projects step by step
 
 ---
 
-## 🛠️ Tools & Tech
+## ⚡ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5" />
+### 🧠 Programming & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-Strong-orange?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-Basic-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-Strong-blue?style=for-the-badge"/>
+### 📊 Data Analysis & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-Computing-blue?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
+</p>
+
+### 🤖 Machine Learning & Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Learning-yellow?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-Basics-red?style=for-the-badge&logo=keras"/>
+</p>
+
+### ⚙️ Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
-## ⚡ Tools I Use
+## 💡 What I Do
 
-```python
-tools = {
-    "Languages": ["Python", "SQL"],
-    "Analysis": ["Pandas", "NumPy"],
-    "Visualization": ["Matplotlib", "Seaborn", "Excel", "Power BI"],
-    "Database": ["MySQL"],
-    "Tools": ["Git", "GitHub", "VS Code"],
-    "Skills": ["EDA", "Data Cleaning", "Dashboarding", "Business Insights"]
-}
-```
+* 🔍 Analyze raw data to extract meaningful insights
+* 📊 Build dashboards and visualizations
+* 🤖 Explore machine learning models
+* 📈 Solve business problems using data
 
 ---
 
@@ -94,6 +114,3 @@ while True:
     improve()
     repeat()
 ```
-
-    improve()
-    stay_consistent()
