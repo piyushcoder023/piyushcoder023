@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Piyush</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Science+Enthusiast;Turning+Data+Into+Decisions;SQL+%7C+Python+%7C+Excel;Exploring+ML+%26+Deep+Learning;Always+Learning+Always+Improving" />
+  Business Analyst | Data Science Enthusiast
 </p>
 
 <p align="center">
@@ -23,86 +23,47 @@
 
 ## 🚀 About Me
 
-* 📊 Aspiring **Business Analyst** with strong interest in **Data Science & Analytics**
-* 🧠 Skilled in **Python, SQL, Excel, and Data Visualization**
-* 🤖 Exploring **Machine Learning and Deep Learning concepts**
-* 📈 Focused on solving real-world problems using **data-driven insights**
-* ⚡ Consistent learner, building projects step by step
+* 📊 Aspiring Business Analyst
+* 🧠 Learning Data Science & Machine Learning
+* 💻 Skilled in Python, SQL, Excel, Power BI
+* 📈 Love turning data into insights
 
 ---
 
 ## ⚡ Tools & Technologies
 
-### 🧠 Programming & Databases
+### Programming & Database
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Strong-orange?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql"/>
-</p>
+* Python
+* SQL
+* MySQL
 
-### 📊 Data Analysis & Visualization
+### Data Analysis
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Computing-blue?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-Statistical-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
-</p>
+* Pandas
+* NumPy
 
-### 🤖 Machine Learning & Deep Learning
+### Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Learning-yellow?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Keras-Basics-red?style=for-the-badge&logo=keras"/>
-</p>
+* Matplotlib
+* Seaborn
+* Excel
+* Power BI
 
-### ⚙️ Tools & Workflow
+### Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode"/>
-</p>
+* Git
+* GitHub
+* VS Code
 
 ---
 
-## 💡 What I Do
+## 📂 Projects
 
-* 🔍 Analyze raw data to extract meaningful insights
-* 📊 Build dashboards and visualizations
-* 🤖 Explore machine learning models
-* 📈 Solve business problems using data
-
----
-
-## 📂 Featured Projects
-
-* 🏥 Hospital SQL Project
-* 🦠 COVID-19 Data Analysis
-* 🦈 Shark Tank Analysis
-* 🛒 Supermarket Sales Analysis
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushcoder023&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushcoder023&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyushcoder023&theme=tokyonight"/>
-</p>
+* Hospital SQL Project
+* COVID-19 Data Analysis
+* Shark Tank Analysis
+* Supermarket Sales Analysis
 
 ---
 
