@@ -91,15 +91,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushcoder023&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushcoder023&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushcoder023&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushcoder023&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Used-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Used-orange?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PowerBI-Used-yellow?style=for-the-badge&logo=powerbi"/>
-</p>
 
 ---
 
