@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey!%20I'm%20PIYUSH%20RAWAT&fontSize=48&animation=fadeIn&fontColor=FFD700&fontAlignY=65"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Hey+There!+I+am+Piyush+Rawat;Business+Analyst+📈;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Data+Science+Enthusiast+🤖;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
