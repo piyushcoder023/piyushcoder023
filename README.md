@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Piyush</h1>
+<h1 align="center">👋 Hey, I'm PIYUSH RAWAT</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Science+Enthusiast;Turning+Data+Into+Decisions;SQL+%7C+Python+%7C+Excel;Exploring+ML+%26+Deep+Learning;Always+Learning+Always+Improving" />
