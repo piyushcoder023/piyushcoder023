@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hey!%20I'm%20PIYUSH%20RAWAT&fontSize=48&animation=fadeIn&fontColor=00D9FF&fontAlignY=65"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Business+Analyst+📈"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Business+Analyst+📈;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Data+Science+Enthusiast+🤖;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=Data+Analyst+📊"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushcoder023&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=SQL+%7C+Power+BI+%7C+Data+Science+Enthusiast+🤖"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00FF87&center=true&vCenter=true&width=600&height=60&lines=Always+Learning+🚀"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushrawat2804">
