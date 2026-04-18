@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey!%20I'm%20PIYUSH%20RAWAT&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:0d1117&height=200&section=header&text=Hey!%20I'm%20PIYUSH%20RAWAT%20👋&fontSize=45&animation=twinkling&fontColor=ffffff&fontAlignY=65"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=500&lines=Python+Developer+🐍;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+👨‍💻;Python+Developer+🐍;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Machine+Learning🤖;Always+Learning+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushcoder023&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 </p>
 
 
