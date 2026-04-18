@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hey, I'm PIYUSH RAWAT</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+Data+Science+Enthusiast;Turning+Data+Into+Decisions;SQL+%7C+Python+%7C+Excel;Exploring+ML+%26+Deep+Learning;Always+Learning+Always+Improving" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I'm%20PIYUSH%20RAWAT&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushrawat2804">
