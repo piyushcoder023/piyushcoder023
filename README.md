@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey!%20I'm%20PIYUSH%20RAWAT&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey!%20I'm%20PIYUSH%20RAWAT&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=500&lines=Python+Developer+🐍;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+GitHub"/>
 </p>
 
 
