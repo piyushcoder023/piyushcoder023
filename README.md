@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Profile+👨‍💻;Business+Analyst+;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Data+Science Enthusiast🤖;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Profile+👨💻;Business+Analyst+📈;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Data+Science+Enthusiast+🤖;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyushcoder023&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushrawat2804">
