@@ -80,11 +80,12 @@
 ---
 
 ## 📂 Featured Projects
-
+* ⛵ Boat Sales SQL Project
 * 🏥 Hospital SQL Project
 * 🦠 COVID-19 Data Analysis
 * 🦈 Shark Tank Analysis
 * 🛒 Supermarket Sales Analysis
+* 📊 Boat Power BI Dashboard
 
 ---
 
