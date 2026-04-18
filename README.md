@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+👨‍💻;Python+Developer+🐍;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Machine+Learning🤖;Always+Learning+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+👨‍💻;Python+Developer+🐍;Data+Analyst+📊;SQL+%7C+Power+BI+%7C+Machine+Learning🤖;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
